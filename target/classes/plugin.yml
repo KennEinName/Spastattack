@@ -1,0 +1,12 @@
+name: Spastattack
+main: de.rxbsi.spastattack.Spastattack
+version: 1.0
+api-version: 1.16
+author: Rxbsi
+
+commands:
+  sethome:
+  home:
+  tpa:
+  playtime:
+  tphere:
